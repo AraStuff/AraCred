@@ -4,3 +4,8 @@
 
 Please see the [AraCred Deployment page](https://aracred.github.io/website/docs/manualDeployment) for info on how to setup and run AraCred.
 
+### Points DAO
+
+This AraCred is connected to this DAO.
+
+> https://rinkeby.aragon.org/#/points/

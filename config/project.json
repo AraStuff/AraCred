@@ -17,9 +17,6 @@
         "🦅": 2
       }
     },
-    "discourseServer": {
-      "serverUrl": "https://forum.aragon.org"
-    },
     "identities": [
       { "username": "YalorMewn", "aliases": ["github/YalorMewn", "discord/360481131029856256", "discourse/Yalortackson"]},
       { "username": "burrrata", "aliases": ["github/burrrata", "discord/657069807505637397", "discourse/burrrata"]},
