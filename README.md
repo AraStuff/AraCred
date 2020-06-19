@@ -6,6 +6,6 @@ Please see the [AraCred Deployment page](https://aracred.github.io/website/docs/
 
 ### Points DAO
 
-This AraCred is connected to this DAO.
+This AraCred is connected to this Rinkeby DAO.
 
 > https://rinkeby.aragon.org/#/points/
