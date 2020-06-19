@@ -13,7 +13,6 @@
         "❤️": 1,
         "💯": 1,
         "🙏": 1,
-        ":aragon:": 2,
         "🦅": 2
       }
     },
@@ -25,8 +24,8 @@
     ],
     "repoIds": [
       {
-        "name": "aragon",
-        "owner": "Aragon"
+        "name": "AraCred",
+        "owner": "arastuff"
       }
     ]
   }
